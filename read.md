@@ -1,7 +1,7 @@
 
 
 
-<img scr = 'AAA/yaktocat.png' wigth=100>
+<img src = 'AAA/yaktocat.png' wigth=100>
      
 a link:
 <a href="test.md">test.md</a>   
