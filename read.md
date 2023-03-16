@@ -3,7 +3,14 @@
 
 
 
-<img scr='images/(yaktocat.png' wigth=100>
+<img scr = 'images/yaktocat.png' wigth=100>
+     
+a link:
+<a href="test.md">test.md</a>   
+
+
+- 이미지 테스트 : 
+   [text.md](text.md)
      
      
      # dddddd
